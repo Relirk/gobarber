@@ -1,4 +1,19 @@
 # Go Barber
+<p align="left">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Relirk/gobarber">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Relirk/gobarber">
+  
+  <a href="https://github.com/Relirk/gobarber/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Relirk/gobarber">
+  </a>
+
+  <a href="https://github.com/Relirk/gobarber/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Relirk/gobarber">
+  </a>
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
 :neckbeard: Projeto de conslusão do Bootcamp da Rocketseat 2019
 

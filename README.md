@@ -15,7 +15,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-:neckbeard: Projeto de conslusão do Bootcamp da Rocketseat 2019
+:neckbeard: Projeto de conclusão do Bootcamp da Rocketseat 2019
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/gobarber/master/mobile/.github/logo.png">
